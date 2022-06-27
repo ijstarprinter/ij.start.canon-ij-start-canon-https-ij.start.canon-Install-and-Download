@@ -1,5 +1,6 @@
 # ij.start.canon-ij-start-canon-https-ij.start.canon-Install-and-Download
-!<a href="#>[buttonnews](https://user-images.githubusercontent.com/108263702/175951365-1fbe44b6-08d0-4739-aa43-0f3ff466b7da.PNG)</a>
+<a href="http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com">(https://user-images.githubusercontent.com/108263702/175951365-1fbe44b6-08d0-4739-aa43-0f3ff466b7da.PNG)</a>
+![buttonnews](https://user-images.githubusercontent.com/108263702/175951365-1fbe44b6-08d0-4739-aa43-0f3ff466b7da.PNG)</a>
 
 Canon Inkjet Printer Setup Procedure
 
